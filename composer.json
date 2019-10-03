@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/VE_Ajax",
+    "name": "OpenMageModuleFostering\/VE_Ajax",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Ajax Filter and Cart",
     "authors": [
-    {
-        "name": "Virtual Employee",
-        "email": "ve.ppm2@gmail.com"
-    }
-],
+        {
+            "name": "Virtual Employee",
+            "email": "ve.ppm2@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
